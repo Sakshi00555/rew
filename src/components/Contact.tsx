@@ -57,6 +57,12 @@ const Contact: React.FC = () => {
             >
               ✉️ Email Me
             </a>
+            <a
+              href="tel:+15617597286"
+              className="w-full max-w-xs rounded-full border-2 border-white px-6 py-2.5 text-center font-medium text-white transition hover:bg-gray-700 hover:scale-[0.98]"
+            >
+              📞 +1 (561) 759-7286
+            </a>
             <div className="mt-6 flex gap-5 text-2xl">
               <a
                 href="https://www.linkedin.com/in/chandravicky220"

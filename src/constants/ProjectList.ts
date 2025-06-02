@@ -15,7 +15,7 @@ export const ProjectList = [
     ],
     img: airlineAnalysis,
     tech: ["Python", "Pandas", "NumPy", "Matplotlib"],
-    source: "https://github.com/YourUsername/Airline-Data-Analysis"
+    source: "https://github.com/chandra5617597286/Airline-Data-Quality-Performance-Analysis"
   },
   {
     id: 2,
@@ -28,7 +28,7 @@ export const ProjectList = [
     ],
     img: gigAnalysis,
     tech: ["Power BI", "Python", "GeoMap visuals"],
-    source: "https://github.com/YourUsername/Gig-Economy-Workforce-Analyzer"
+    source: "https://github.com/chandra5617597286/Gig-Uber-Project"
   },
     {
     id: 3,
@@ -41,6 +41,6 @@ export const ProjectList = [
     ],
     img: jobMarketImg,
     tech: ["Python", "Pandas", "RegEx", "Power BI"],
-    source: "https://github.com/YourUsername/Job-Market-Skill-Demand-Analyzer"
+    source: "https://github.com/chandra5617597286/Job-Skills-Demand-Analyzer"
   }
 ];
