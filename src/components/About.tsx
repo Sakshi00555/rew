@@ -23,7 +23,7 @@ const About = () => {
       label: "Power BI Data Analyst Associate",
       issuer: "Microsoft",
       date: "Nov 2024",
-      url: "https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/"
+      url: "https://learn.microsoft.com/en-us/users/chandrasekhartodeti-5946/credentials/62bd2df04b347dd4?ref=https%3A%2F%2Fwww.linkedin.com%2F"
     },
     {
       label: "Operations Job Simulation",
