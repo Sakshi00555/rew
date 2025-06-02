@@ -29,7 +29,7 @@ const About = () => {
       label: "Operations Job Simulation",
       issuer: "Goldman Sachs",
       date: "Dec 2024",
-      url: "https://www.linkedin.com/in/chandrasekhar-todeti/details/certifications/"
+      url: "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/wNge9cjzNTXD2acrv_MBA4MnZTNFEoJZGnk_3NTMp9pqfiSn5AWfe_1735271916407_completion_certificate.pdf"
     },
   ];
 
