@@ -44,7 +44,7 @@ const Contact: React.FC = () => {
           </p>
           <div className="flex flex-col items-center gap-4 md:items-start">
             <a
-              href="https://calendly.com/chandravicky220/15min"
+              href="https://calendly.com/chandravicky220/1-on-1-call-with-chandra-sekhar-todeti"
               target="_blank"
               rel="noopener noreferrer"
               className="w-full max-w-xs rounded-full bg-white px-6 py-3 text-center font-medium text-darkHover transition hover:scale-[0.98]"
