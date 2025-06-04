@@ -65,7 +65,7 @@ const Contact: React.FC = () => {
             </a>
             <div className="mt-6 flex gap-5 text-2xl">
               <a
-                href="https://www.linkedin.com/in/chandravicky220"
+                href="https://www.linkedin.com/in/chandrasekhar-todeti/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transition hover:-translate-y-1"
